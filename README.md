@@ -14,12 +14,12 @@ This Python-based tool scans images for signs of manipulation using:
 
 ## 🛠 Installation
 
-```bash
+'''bash
 git clone https://github.com/ShindeAashit/image-forensics-tool.git
 cd image-forensics-tool
 pip install pillow piexif imagehash opencv-python
 
-## 📂 Usage
+# 📂 Usage
 
 Run the GUI:
 
